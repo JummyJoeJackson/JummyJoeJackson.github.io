@@ -1,5 +1,9 @@
-body {
+.welcome {
   background-color: #FDF5DF;
+}
+
+.intro {
+  background-color: black;
 }
 
 h1 {
