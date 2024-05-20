@@ -2,10 +2,10 @@ body {
   background-color: #FDF5DF;
 }
 
-.header {
+h1 {
   color: #5EBEC4;
 }
 
-.words {
+p {
   color: #F92C85;
 }
