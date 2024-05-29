@@ -1,15 +1,37 @@
-.welcome {
-  background-color: #fdf5df;
-}
-
-.intro {
-  background-color: #fff;
-}
-
-h1 {
-  color: #5ebec4;
-}
-
-p {
-  color: #f92c85;
-}
+body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+            header {
+                background-color: #333;
+                color: #fff;
+                padding: 20px;
+                text-align: center;
+            }
+            h1 {
+                margin: 0;
+            }
+            nav {
+                background-color: #444;
+                padding: 10px;
+                text-align: center;
+            }
+            nav a {
+                color: #fff;
+                text-decoration: none;
+                padding: 0 10px;
+            }
+            nav a:hover {
+                background-color: #555;
+            }
+            section {
+                padding: 20px;
+                text-align: center;
+            }
+            footer {
+                background-color: #333;
+                color: #fff;
+                padding: 10px;
+                text-align: center;
+            }
